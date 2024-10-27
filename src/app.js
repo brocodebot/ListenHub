@@ -30,9 +30,9 @@ const songs = [
     },
     {
         id:"5",
-        songName: `Porkanda Singam <br>
-        <div class="subtitle">Anirudh Ravichandr</div>`,
-        poster: "img/5.jpg",
+        songName: `Millionare <br>
+        <div class="subtitle">Honey Singh</div>`,
+        poster: "img/honey.jpg",
     },
     {
         id:"6",
