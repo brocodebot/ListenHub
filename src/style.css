@@ -391,7 +391,6 @@ header .master_play .vol input{
      left: 370px;
      bottom: 250px;
      padding: 20px;
-     background: url('bg.png');
      background-repeat:no-repeat;
      z-index: -1;
  }
