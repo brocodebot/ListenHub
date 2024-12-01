@@ -91,7 +91,7 @@ class App extends React.Component {
   
           React.createElement("div", { class: "dropdown" }, /*#__PURE__*/
             React.createElement("button", { onClick: handleClick }, /*#__PURE__*/
-              React.createElement("i", { class: "fa fa-user-circle fa-lg", "aria-hidden": "true" }), "curious_coder", /*#__PURE__*/
+              React.createElement("i", { class: "fa fa-user-circle fa-lg", "aria-hidden": "true" }), "Bro_Coders", /*#__PURE__*/
   
               React.createElement("i", { className: `fa fa-caret-${profileVisibility == 'hidden' ? 'down' : 'up'}`, "aria-hidden": "true" })), /*#__PURE__*/
   
@@ -202,7 +202,7 @@ class App extends React.Component {
   
         React.createElement("div", { class: "category" }, /*#__PURE__*/
           React.createElement("div", { class: "title" }, /*#__PURE__*/
-            React.createElement("h3", null, "Made For curious_coder"), /*#__PURE__*/
+            React.createElement("h3", null, "Made For Bro Coders"), /*#__PURE__*/
             React.createElement("a", { href: "#" }, "SEE ALL")), /*#__PURE__*/
   
           React.createElement("div", null, /*#__PURE__*/
