@@ -17,7 +17,6 @@ class App extends React.Component {
   const Menu = () => {
     return /*#__PURE__*/(
       React.createElement("div", { id: "menu-bar", class: "menu-bar" }, /*#__PURE__*/
-        React.createElement("span", null, /*#__PURE__*/React.createElement("a", { href: "#" }, /*#__PURE__*/React.createElement("img", { src: "https://getheavy.com/wp-content/uploads/2019/12/spotify2019-830x350.jpg", alt: "Spotify Logo" }))), /*#__PURE__*/
         React.createElement("nav", { class: "navbar" }, /*#__PURE__*/
           React.createElement("ul", null, /*#__PURE__*/
             React.createElement("li", null, /*#__PURE__*/React.createElement("a", { class: "active", href: "#" }, /*#__PURE__*/React.createElement("svg", { viewBox: "0 0 512 512", width: "24", height: "24", xmlns: "http://www.w3.org/2000/svg" }, /*#__PURE__*/React.createElement("path", { d: "M448 463.746h-149.333v-149.333h-85.334v149.333h-149.333v-315.428l192-111.746 192 110.984v316.19z", fill: "currentColor" })), "Home")), /*#__PURE__*/
