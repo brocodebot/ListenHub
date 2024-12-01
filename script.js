@@ -97,8 +97,9 @@ class App extends React.Component {
   
             React.createElement("ul", { style: { visibility: `${profileVisibility}` } }, /*#__PURE__*/
               React.createElement("li", null, /*#__PURE__*/React.createElement("a", { href: "#", target: "_blank" }, "Account", /*#__PURE__*/React.createElement("i", { class: "fa fa-external-link", "aria-hidden": "true" }))), /*#__PURE__*/
-  
+              
               React.createElement("li", null, /*#__PURE__*/React.createElement("a", { href: "https://brocodebot.github.io/ListenHub/src/main" }, "Profile")), /*#__PURE__*/
+              React.createElement("li", null, /*#__PURE__*/React.createElement("a", { href: "https://brocodebot.github.io/ListenHub/src/login.html" }, "Log in")), /*#__PURE__*/
               React.createElement("li", null, /*#__PURE__*/React.createElement("a", { href: "#" }, "Log Out")))))));
   
   
